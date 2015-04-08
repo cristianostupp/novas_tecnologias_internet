@@ -7,6 +7,6 @@
 <title>Hello GitHub!</title>
 </head>
 <body>
-<h1>Hello GitHub!</h1>
+<h1>Hello GitHub! Just made a change.</h1>
 </body>
 </html>
